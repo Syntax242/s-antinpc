@@ -12,6 +12,3 @@ This script allows you to disable NPC spawns within specific areas of the map in
 
 ### Configuration:
 - Edit the `config.lua` file to set up the areas where you want NPCs to be disabled.
-
-
-https://r.resimlink.com/RJPlSmqcUQv.png
