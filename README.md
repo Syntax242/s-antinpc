@@ -1,6 +1,6 @@
 # NPC Spawn Disabler
 
-This script allows you to disable NPC spawns within specific areas of the map in GTA V. You can configure the coordinates and radius for each area in the `config.lua` file. 
+This script allows you to disable NPC spawns within specific areas of the map in FiveM. You can configure the coordinates and radius for each area in the `config.lua` file. 
 
 ### Features:
 - Disables NPC spawns within the specified radius.
